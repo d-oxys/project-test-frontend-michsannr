@@ -9,7 +9,12 @@ export default function Home() {
     <>
       <Navbar />
       <div className='mt-0 min-h-screen'>
-        <JumboTron imageUrl='' headline='HOME' text='suitmedia combines Customer Experience, Data Analytics, and ROI-oriented approaches to help our clients succesd through digital innovation.' />
+        <JumboTron
+          imageUrl=''
+          headline='ABOUT US'
+          text='Suitmedia has become our second home
+where technology & creativity fused into digital chemistry'
+        />
       </div>
       <Container>
         <div className='mt-16 h-screen'></div>

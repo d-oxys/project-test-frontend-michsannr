@@ -1,0 +1,26 @@
+[
+  {
+    "name": "work",
+    "href": "/work"
+  },
+  {
+    "name": "about",
+    "href": "/about"
+  },
+  {
+    "name": "services",
+    "href": "/services"
+  },
+  {
+    "name": "ideas",
+    "href": "/ideas"
+  },
+  {
+    "name": "careers",
+    "href": "/careers"
+  },
+  {
+    "name": "contact",
+    "href": "/contact"
+  }
+]
